@@ -1,4 +1,7 @@
-# api documentation for  [dompurify (v0.8.5)](https://github.com/cure53/DOMPurify)  [![npm package](https://img.shields.io/npm/v/npmdoc-dompurify.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-dompurify) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-dompurify.svg)](https://travis-ci.org/npmdoc/node-npmdoc-dompurify)
+# npmdoc-dompurify
+
+#### api documentation for  [dompurify (v0.8.5)](https://github.com/cure53/DOMPurify)  [![npm package](https://img.shields.io/npm/v/npmdoc-dompurify.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-dompurify) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-dompurify.svg)](https://travis-ci.org/npmdoc/node-npmdoc-dompurify)
+
 #### DOMPurify is a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. It's written in JavaScript and works in all modern browsers (Safari, Opera (15+), Internet Explorer (10+), Firefox and Chrome - as well as almost anything else usin
 
 [![NPM](https://nodei.co/npm/dompurify.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/dompurify)
